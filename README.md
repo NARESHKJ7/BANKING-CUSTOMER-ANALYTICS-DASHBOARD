@@ -22,14 +22,6 @@ The goal of this project is to understand customer demographics, behavior, and c
 
 ---
 
-## 🔍 Key Insights
-
-- Customers aged **30–40** showed the highest interest in term deposits.
-- **Married customers** and those with **secondary education** were more responsive to campaigns.
-- Campaign success increased with **fewer previous contacts** and **longer call durations**.
-- **Job and marital status** were strong indicators of customer behavior.
-
----
 
 ## 📊 Power BI Dashboard
 
